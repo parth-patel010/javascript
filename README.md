@@ -27,53 +27,15 @@ Welcome to my JavaScript learning repository! This repository documents my journ
 - [ ] Performance Optimization
 - [ ] Security Best Practices
 
-## 🎯 Projects
-
-### Completed Projects
-1. Project Name
-   - Description
-   - Technologies Used
-   - Key Learnings
-
-### In Progress
-1. Current Project
-   - Description
-   - Technologies Used
-   - Current Status
-
-## 📝 Notes and Resources
-
-### Useful Resources
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript.info](https://javascript.info/)
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-
-### Code Snippets
-- Common patterns and solutions
-- Best practices
-- Performance tips
-
-## 🎓 Learning Goals
-- [ ] Master JavaScript fundamentals
-- [ ] Build 5+ projects
-- [ ] Contribute to open source
-- [ ] Learn a JavaScript framework
-
-## 📈 Progress Tracking
-- Daily coding practice
-- Weekly project updates
-- Monthly skill assessments
 
 ## 🤝 Connect
 Feel free to connect with me:
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- LinkedIn: https://www.linkedin.com/in/parth-patel010
 
 ## 📅 Timeline
-- Start Date: [Date]
-- Current Focus: [Current Topic]
-- Next Milestone: [Next Goal]
+- Start Date: 4 Jun
+- Current Focus: Javascript
+- Next Milestone: Java
 
 ---
 *This README will be updated regularly as I progress in my JavaScript learning journey.* 
