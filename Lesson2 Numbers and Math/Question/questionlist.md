@@ -1,51 +1,64 @@
-# JavaScript Basic Exercises 🚀
+# JavaScript Numbers and Math Exercises
 
-## 📝 Instructions
-1. Open your browser's Developer Tools (Right-click > Inspect > Console)
-2. If you get a warning about pasting being disabled:
-   - Type `allow pasting` in the console
-   - Press Enter
-   - Now you can paste your code
+> Note: Do these exercises in the console (right-click > Inspect > Console)
 
-## 🎯 Basic Exercises
+## Basic Calculations
 
-### 1. Alert and Console Output
-1. Display 'Good morning!' in a popup using `alert()`
+1. At a restaurant, you order:
+   - 1 soup for $10
+   - 3 burgers for $8 each
+   - 1 ice cream for $5
+   
+   Use JavaScript to calculate the total cost of the order.
 
-2. Display your name in a popup using `alert()`
+2. Calculate the total cost of:
+   - 1 toaster ($18.50)
+   - 2 shirts ($7.50 each)
 
-3. Basic Math Operations
-   - Calculate 10 + 5 in the console
-   - Calculate 20 - 5 in the console
-   - Calculate 2 + 2 - 5 in the console
+3. Calculate a 10% tax for the total in exercise 2.
 
-4. DOM Manipulation
-   - Display 'Good morning!' on the web page using `document.body.innerHTML`
-   - Display your name on the web page using `document.body.innerHTML`
+4. Calculate a 20% tax for the total in exercise 2.
+   > Remember: 1% = 1/100, so 20% = 20/100 = 0.2
 
-## 🏆 Challenge Exercises
+## Shopping Cart Exercise
 
-### 1. Shopping Cart Calculation
-Calculate the total cost of:
-- T-shirt: $10
-- Socks: $8
-- Dinner plates: $20
+### Setup
+You have added the following items to your cart:
+- 1 basketball
+- 1 shirt
+- 1 toaster ($18.99)
+- Shipping: $4.99
 
-### 2. Bank Account Balance
-Track your money:
-- Initial balance: $100
-- Lunch expense: -$20
-- Dinner expense: -$50
-- Job income: +$200
+5. Calculate the cost of the products (before shipping and taxes).
+   > Hint: Calculate in cents to avoid inaccuracies
 
-### 3. DOM Manipulation Challenge
-Clear the web page content using `document.body.innerHTML`
+6. Calculate the total before tax.
+   > Hint: Use Math.round()
 
-## 💡 Tips
-- Use `console.log()` to see your results in the console
-- Use `alert()` for popup messages
-- Use `document.body.innerHTML` to modify web page content
-- Remember to use proper JavaScript syntax (semicolons, quotes, etc.)
+7. Calculate the 10% tax exactly.
+   > Hint: Use Math.round()
 
----
-*Complete these exercises in order to build a strong foundation in JavaScript basics.*
+8. Calculate the order total at the bottom.
+
+> Note: After finishing exercise 8, remove the toaster from cart
+
+## Rounding Numbers
+
+9. Round a number down (2.8 => 2)
+   > Search for the code to do this using Google or an AI tool
+
+10. Round a number up (2.2 => 3)
+    > Search for the code to do this
+
+## Temperature Conversion Challenge
+
+The formulas for temperature conversion are:
+- Fahrenheit = (Celsius × 9/5) + 32
+- Celsius = (Fahrenheit - 32) × 5/9
+
+11. The temperature is 25°C. Calculate the temperature in Fahrenheit.
+
+12. The temperature is 86°F. Calculate the temperature in Celsius.
+
+13. The temperature is -5°C. Calculate the temperature in Fahrenheit.
+
