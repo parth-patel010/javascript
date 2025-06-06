@@ -38,16 +38,14 @@ You have added the following items to your cart:
 7. Calculate the 10% tax exactly.
    > Hint: Use Math.round()
 
-8. Calculate the order total at the bottom.
 
-> Note: After finishing exercise 8, remove the toaster from cart
 
 ## Rounding Numbers
 
-9. Round a number down (2.8 => 2)
+8. Round a number down (2.8 => 2)
    > Search for the code to do this using Google or an AI tool
 
-10. Round a number up (2.2 => 3)
+9. Round a number up (2.2 => 3)
     > Search for the code to do this
 
 ## Temperature Conversion Challenge
@@ -56,9 +54,9 @@ The formulas for temperature conversion are:
 - Fahrenheit = (Celsius × 9/5) + 32
 - Celsius = (Fahrenheit - 32) × 5/9
 
-11. The temperature is 25°C. Calculate the temperature in Fahrenheit.
+10. The temperature is 25°C. Calculate the temperature in Fahrenheit.
 
-12. The temperature is 86°F. Calculate the temperature in Celsius.
+11. The temperature is 86°F. Calculate the temperature in Celsius.
 
-13. The temperature is -5°C. Calculate the temperature in Fahrenheit.
+12. The temperature is -5°C. Calculate the temperature in Fahrenheit.
 
